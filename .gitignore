@@ -1,0 +1,9 @@
+# Node modules & build output
+frontend/node_modules
+frontend/build
+
+# AWS CLI cache
+.aws
+
+# Environment files
+*.env
